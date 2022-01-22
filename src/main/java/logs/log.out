@@ -1,0 +1,174 @@
+2022-01-18 21:01:397 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-18 21:01:947 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-18 21:01:288 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-18 22:01:771 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-18 22:01:995 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 08:01:400 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 08:01:475 INFO  HomePage :77 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (4fb3f70676c8216f0b1adcf715923a43)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-20 08:01:630 INFO  LoginPage :50 - Switching into iFrame [[ChromeDriver: chrome on WINDOWS (4fb3f70676c8216f0b1adcf715923a43)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-20 08:01:816 INFO  LoginPage :56 - Entering Username into username field xcyc7g4bpp@gmail.com
+2022-01-20 08:01:27 INFO  LoginPage :61 - Entering Password into password field vXstpP2js
+2022-01-20 08:01:240 INFO  LoginPage :66 - Clicking on Login Button on Login Page [[ChromeDriver: chrome on WINDOWS (4fb3f70676c8216f0b1adcf715923a43)] -> xpath: //button[contains(text(),'Log In')]]
+2022-01-20 08:01:509 INFO  LoginPage :70 - Getting Error message text [[ChromeDriver: chrome on WINDOWS (4fb3f70676c8216f0b1adcf715923a43)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-20 08:01:699 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 08:01:591 INFO  HomePage :83 - Clicking on Sign Up Button [[ChromeDriver: chrome on WINDOWS (5d2a95c5c85c9e530f030379e2f6a129)] -> xpath: //a[contains(text(),'Sign Up')]]
+2022-01-20 08:01:983 INFO  SignUpPage :128 - Entering First Name into 'FIRST NAME' field John
+2022-01-20 08:01:194 INFO  SignUpPage :133 - Entering Last Name into 'LAST NAME' field Scott
+2022-01-20 08:01:418 INFO  SignUpPage :149 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (5d2a95c5c85c9e530f030379e2f6a129)] -> css selector: .regpath__button-next-text]
+2022-01-20 08:01:647 INFO  SignUpPage :154 - Selecting Gender 'Male or Female' [[ChromeDriver: chrome on WINDOWS (5d2a95c5c85c9e530f030379e2f6a129)] -> class: bvs-button-card-alternative]
+2022-01-20 08:01:405 INFO  SignUpPage :159 - Entering Email into 'EMAIL' field pg575jmmnd@gmail.com
+2022-01-20 08:01:797 INFO  SignUpPage :164 - Entering Password into 'PASSWORD' field dcLbcSGgmNeyj5W
+2022-01-20 08:01:182 INFO  SignUpPage :169 - Entering Mobile number into 'MOBILE NUMBER' field 7912457832
+2022-01-20 08:01:470 INFO  SignUpPage :179 - Selecting Day from dropdown for 'Date Of Birth' field  11
+2022-01-20 08:01:644 INFO  SignUpPage :181 - Selecting Month from dropdown for 'Date of Birth' field  November
+2022-01-20 08:01:848 INFO  SignUpPage :183 - Selecting Year from dropdown for 'Date Of Birth' field 1980
+2022-01-20 08:01:196 INFO  SignUpPage :188 - Entering first line of address into 'Address1' field  10 Downand Drive
+2022-01-20 08:01:429 INFO  SignUpPage :190 - Entering City into 'City' field London
+2022-01-20 08:01:794 INFO  SignUpPage :192 - Entering Postcode into 'Postcode' field SE10 0NY
+2022-01-20 08:01:38 INFO  SignUpPage :149 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (5d2a95c5c85c9e530f030379e2f6a129)] -> css selector: .regpath__button-next-text]
+2022-01-20 08:01:323 INFO  SignUpPage :203 - Selecting Currency  GBP
+2022-01-20 08:01:464 INFO  SignUpPage :208 - Verifying Join Now link is displayed No
+2022-01-20 08:01:608 INFO  SignUpPage :213 - Clicking on Checkbox for accepting Terms and Conditions [[ChromeDriver: chrome on WINDOWS (5d2a95c5c85c9e530f030379e2f6a129)] -> xpath: //div[@class='bvs-checkbox-card__checkbox']]
+2022-01-20 08:01:776 INFO  SignUpPage :218 - Clicking on Create Account button [[ChromeDriver: chrome on WINDOWS (5d2a95c5c85c9e530f030379e2f6a129)] -> xpath: //button[@type='submit']]
+2022-01-20 08:01:937 INFO  SignUpPage :222 - Clicking on Close button [[ChromeDriver: chrome on WINDOWS (5d2a95c5c85c9e530f030379e2f6a129)] -> xpath: //span[@class='bvs-icon is-big is-cross is-inverted']]
+2022-01-20 09:01:88 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 09:01:48 INFO  HomePage :50 - Clicking on Sign Up Button [[ChromeDriver: chrome on WINDOWS (66f507947e6563059406885bc2010448)] -> xpath: //a[contains(text(),'Sign Up')]]
+2022-01-20 09:01:882 INFO  SignUpPage :124 - Entering First Name into 'FIRST NAME' field John
+2022-01-20 09:01:117 INFO  SignUpPage :129 - Entering Last Name into 'LAST NAME' field Scott
+2022-01-20 09:01:417 INFO  SignUpPage :135 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (66f507947e6563059406885bc2010448)] -> css selector: .regpath__button-next-text]
+2022-01-20 09:01:709 INFO  SignUpPage :140 - Selecting Gender 'Male or Female' [[ChromeDriver: chrome on WINDOWS (66f507947e6563059406885bc2010448)] -> class: bvs-button-card-alternative]
+2022-01-20 09:01:442 INFO  SignUpPage :145 - Entering Email into 'EMAIL' field 26a3nh3ljs@gmail.com
+2022-01-20 09:01:910 INFO  SignUpPage :150 - Entering Password into 'PASSWORD' field AF5QBcAum0OXqfq
+2022-01-20 09:01:267 INFO  SignUpPage :155 - Entering Mobile number into 'MOBILE NUMBER' field 7912457832
+2022-01-20 09:01:554 INFO  SignUpPage :160 - Selecting Day from dropdown for 'Date Of Birth' field  11
+2022-01-20 09:01:782 INFO  SignUpPage :162 - Selecting Month from dropdown for 'Date of Birth' field  November
+2022-01-20 09:01:942 INFO  SignUpPage :164 - Selecting Year from dropdown for 'Date Of Birth' field 1980
+2022-01-20 09:01:333 INFO  SignUpPage :169 - Entering first line of address into 'Address1' field  10 Downand Drive
+2022-01-20 09:01:640 INFO  SignUpPage :171 - Entering City into 'City' field London
+2022-01-20 09:01:06 INFO  SignUpPage :173 - Entering Postcode into 'Postcode' field SE10 0NY
+2022-01-20 09:01:267 INFO  SignUpPage :135 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (66f507947e6563059406885bc2010448)] -> css selector: .regpath__button-next-text]
+2022-01-20 09:01:482 INFO  SignUpPage :184 - Selecting Currency  GBP
+2022-01-20 09:01:701 INFO  SignUpPage :189 - Verifying Join Now link is displayed No
+2022-01-20 09:01:881 INFO  SignUpPage :194 - Clicking on Checkbox for accepting Terms and Conditions [[ChromeDriver: chrome on WINDOWS (66f507947e6563059406885bc2010448)] -> xpath: //div[@class='bvs-checkbox-card__checkbox']]
+2022-01-20 09:01:31 INFO  SignUpPage :199 - Clicking on Create Account button [[ChromeDriver: chrome on WINDOWS (66f507947e6563059406885bc2010448)] -> xpath: //button[@type='submit']]
+2022-01-20 09:01:207 INFO  SignUpPage :203 - Clicking on Close button [[ChromeDriver: chrome on WINDOWS (66f507947e6563059406885bc2010448)] -> xpath: //span[@class='bvs-icon is-big is-cross is-inverted']]
+2022-01-20 09:01:860 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 09:01:290 INFO  HomePage :43 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bfd894b45701c94b3eab6d05b1d183d2)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-20 09:01:446 INFO  LoginPage :45 - Switching into iFrame [[ChromeDriver: chrome on WINDOWS (bfd894b45701c94b3eab6d05b1d183d2)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-20 09:01:607 INFO  LoginPage :51 - Entering Username into username field pwwe58h0n2@gmail.com
+2022-01-20 09:01:732 INFO  LoginPage :56 - Entering Password into password field rQXCFGYel
+2022-01-20 09:01:972 INFO  LoginPage :61 - Clicking on Login Button on Login Page [[ChromeDriver: chrome on WINDOWS (bfd894b45701c94b3eab6d05b1d183d2)] -> xpath: //button[contains(text(),'Log In')]]
+2022-01-20 09:01:262 INFO  LoginPage :65 - Getting Error message text [[ChromeDriver: chrome on WINDOWS (bfd894b45701c94b3eab6d05b1d183d2)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-20 13:01:643 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 13:01:183 INFO  HomePage :40 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (5256e2ec6304cb9dee319a43c259b971)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-20 13:01:40 INFO  LoginPage :42 - Switching into iFrame [[ChromeDriver: chrome on WINDOWS (5256e2ec6304cb9dee319a43c259b971)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-20 13:01:463 INFO  LoginPage :48 - Entering Username into username field 8p2pufwj45@gmail.com
+2022-01-20 13:01:885 INFO  LoginPage :53 - Entering Password into password field pKoyUCn5x
+2022-01-20 13:01:351 INFO  LoginPage :58 - Clicking on Login Button on Login Page [[ChromeDriver: chrome on WINDOWS (5256e2ec6304cb9dee319a43c259b971)] -> xpath: //button[contains(text(),'Log In')]]
+2022-01-20 13:01:629 INFO  LoginPage :62 - Getting Error message text [[ChromeDriver: chrome on WINDOWS (5256e2ec6304cb9dee319a43c259b971)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-20 13:01:466 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 13:01:94 INFO  HomePage :46 - Clicking on Sign Up Button [[ChromeDriver: chrome on WINDOWS (4a05ee197e34305826b4efcf7aa651ae)] -> xpath: //a[contains(text(),'Sign Up')]]
+2022-01-20 13:01:821 INFO  SignUpPage :96 - Entering First Name into 'FIRST NAME' field John
+2022-01-20 13:01:577 INFO  SignUpPage :101 - Entering Last Name into 'LAST NAME' field Scott
+2022-01-20 13:01:224 INFO  SignUpPage :107 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (4a05ee197e34305826b4efcf7aa651ae)] -> css selector: .regpath__button-next-text]
+2022-01-20 13:01:726 INFO  SignUpPage :112 - Selecting Gender 'Male or Female' [[ChromeDriver: chrome on WINDOWS (4a05ee197e34305826b4efcf7aa651ae)] -> class: bvs-button-card-alternative]
+2022-01-20 13:01:188 INFO  SignUpPage :117 - Entering Email into 'EMAIL' field xwbku5dq5f@gmail.com
+2022-01-20 13:01:386 INFO  SignUpPage :122 - Entering Password into 'PASSWORD' field B3BYbXlRRboJ1Wu
+2022-01-20 13:01:332 INFO  SignUpPage :127 - Entering Mobile number into 'MOBILE NUMBER' field 7912457832
+2022-01-20 13:01:823 INFO  SignUpPage :132 - Selecting Day from dropdown for 'Date Of Birth' field  11
+2022-01-20 13:01:276 INFO  SignUpPage :134 - Selecting Month from dropdown for 'Date of Birth' field  November
+2022-01-20 13:01:744 INFO  SignUpPage :136 - Selecting Year from dropdown for 'Date Of Birth' field 1980
+2022-01-20 13:01:683 INFO  SignUpPage :141 - Entering first line of address into 'Address1' field  10 Downand Drive
+2022-01-20 13:01:379 INFO  SignUpPage :143 - Entering City into 'City' field London
+2022-01-20 13:01:134 INFO  SignUpPage :145 - Entering Postcode into 'Postcode' field SE10 0NY
+2022-01-20 13:01:471 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 13:01:16 INFO  HomePage :46 - Clicking on Sign Up Button [[ChromeDriver: chrome on WINDOWS (3b235149875d986e19c05ed32f05a5a5)] -> xpath: //a[contains(text(),'Sign Up')]]
+2022-01-20 13:01:438 INFO  SignUpPage :94 - Entering First Name into 'FIRST NAME' field John
+2022-01-20 13:01:687 INFO  SignUpPage :99 - Entering Last Name into 'LAST NAME' field Scott
+2022-01-20 13:01:960 INFO  SignUpPage :104 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (3b235149875d986e19c05ed32f05a5a5)] -> css selector: .regpath__button-next-text]
+2022-01-20 13:01:187 INFO  SignUpPage :109 - Selecting Gender 'Male or Female' [[ChromeDriver: chrome on WINDOWS (3b235149875d986e19c05ed32f05a5a5)] -> class: bvs-button-card-alternative]
+2022-01-20 13:01:811 INFO  SignUpPage :114 - Entering Email into 'EMAIL' field jdl2xm5tux@gmail.com
+2022-01-20 13:01:211 INFO  SignUpPage :119 - Entering Password into 'PASSWORD' field BGe07zA2bzSfgML
+2022-01-20 13:01:575 INFO  SignUpPage :124 - Entering Mobile number into 'MOBILE NUMBER' field 7912457832
+2022-01-20 13:01:917 INFO  SignUpPage :129 - Selecting Day from dropdown for 'Date Of Birth' field  11
+2022-01-20 13:01:92 INFO  SignUpPage :131 - Selecting Month from dropdown for 'Date of Birth' field  November
+2022-01-20 13:01:312 INFO  SignUpPage :133 - Selecting Year from dropdown for 'Date Of Birth' field 1980
+2022-01-20 13:01:842 INFO  SignUpPage :138 - Entering first line of address into 'Address1' field  10 Downand Drive
+2022-01-20 13:01:122 INFO  SignUpPage :140 - Entering City into 'City' field London
+2022-01-20 13:01:442 INFO  SignUpPage :142 - Entering Postcode into 'Postcode' field SE10 0NY
+2022-01-20 13:01:660 INFO  SignUpPage :104 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (3b235149875d986e19c05ed32f05a5a5)] -> css selector: .regpath__button-next-text]
+2022-01-20 13:01:17 INFO  SignUpPage :147 - Selecting Currency  GBP
+2022-01-20 13:01:162 INFO  SignUpPage :152 - Verifying Join Now link is displayed No
+2022-01-20 13:01:306 INFO  SignUpPage :157 - Clicking on Checkbox for accepting Terms and Conditions [[ChromeDriver: chrome on WINDOWS (3b235149875d986e19c05ed32f05a5a5)] -> xpath: //div[@class='bvs-checkbox-card__checkbox']]
+2022-01-20 13:01:464 INFO  SignUpPage :162 - Clicking on Create Account button [[ChromeDriver: chrome on WINDOWS (3b235149875d986e19c05ed32f05a5a5)] -> xpath: //button[@type='submit']]
+2022-01-20 13:01:613 INFO  SignUpPage :166 - Clicking on Close button [[ChromeDriver: chrome on WINDOWS (3b235149875d986e19c05ed32f05a5a5)] -> xpath: //span[@class='bvs-icon is-big is-cross is-inverted']]
+2022-01-20 13:01:670 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 13:01:827 INFO  HomePage :46 - Clicking on Sign Up Button [[ChromeDriver: chrome on WINDOWS (b99c934b770a8c324b2245f1de24b7e9)] -> xpath: //a[contains(text(),'Sign Up')]]
+2022-01-20 13:01:339 INFO  SignUpPage :98 - Entering First Name into 'FIRST NAME' field John
+2022-01-20 13:01:558 INFO  SignUpPage :103 - Entering Last Name into 'LAST NAME' field Scott
+2022-01-20 13:01:819 INFO  SignUpPage :108 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (b99c934b770a8c324b2245f1de24b7e9)] -> css selector: .regpath__button-next-text]
+2022-01-20 13:01:127 INFO  SignUpPage :113 - Selecting Gender 'Male or Female' [[ChromeDriver: chrome on WINDOWS (b99c934b770a8c324b2245f1de24b7e9)] -> class: bvs-button-card-alternative]
+2022-01-20 13:01:840 INFO  SignUpPage :118 - Entering Email into 'EMAIL' field lykfafq3ha@gmail.com
+2022-01-20 13:01:277 INFO  SignUpPage :123 - Entering Password into 'PASSWORD' field HRraDgrlO64xOcj
+2022-01-20 13:01:730 INFO  SignUpPage :128 - Entering Mobile number into 'MOBILE NUMBER' field 7912457832
+2022-01-20 13:01:930 INFO  SignUpPage :133 - Selecting Day from dropdown for 'Date Of Birth' field  11
+2022-01-20 13:01:162 INFO  SignUpPage :135 - Selecting Month from dropdown for 'Date of Birth' field  November
+2022-01-20 13:01:414 INFO  SignUpPage :137 - Selecting Year from dropdown for 'Date Of Birth' field 1980
+2022-01-20 13:01:593 INFO  SignUpPage :175 - Clicking on Continue button [[ChromeDriver: chrome on WINDOWS (b99c934b770a8c324b2245f1de24b7e9)] -> xpath: //span[contains(text(),'Continue')]]
+2022-01-20 13:01:61 INFO  SignUpPage :142 - Entering first line of address into 'Address1' field  10 Downand Drive
+2022-01-20 13:01:385 INFO  SignUpPage :144 - Entering City into 'City' field London
+2022-01-20 13:01:679 INFO  SignUpPage :146 - Entering Postcode into 'Postcode' field SE10 0NY
+2022-01-20 13:01:865 INFO  SignUpPage :108 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (b99c934b770a8c324b2245f1de24b7e9)] -> css selector: .regpath__button-next-text]
+2022-01-20 13:01:241 INFO  SignUpPage :151 - Selecting Currency  GBP
+2022-01-20 13:01:449 INFO  SignUpPage :156 - Verifying Join Now link is displayed No
+2022-01-20 13:01:723 INFO  SignUpPage :161 - Clicking on Checkbox for accepting Terms and Conditions [[ChromeDriver: chrome on WINDOWS (b99c934b770a8c324b2245f1de24b7e9)] -> xpath: //div[@class='bvs-checkbox-card__checkbox']]
+2022-01-20 13:01:44 INFO  SignUpPage :166 - Clicking on Create Account button [[ChromeDriver: chrome on WINDOWS (b99c934b770a8c324b2245f1de24b7e9)] -> xpath: //button[@type='submit']]
+2022-01-20 13:01:322 INFO  SignUpPage :170 - Clicking on Close button [[ChromeDriver: chrome on WINDOWS (b99c934b770a8c324b2245f1de24b7e9)] -> xpath: //span[@class='bvs-icon is-big is-cross is-inverted']]
+2022-01-20 13:01:721 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 13:01:923 INFO  HomePage :40 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (d9851c862dc230c06927d8507b05d4a3)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-20 13:01:281 INFO  LoginPage :42 - Switching into iFrame [[ChromeDriver: chrome on WINDOWS (d9851c862dc230c06927d8507b05d4a3)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-20 13:01:770 INFO  LoginPage :48 - Entering Username into username field r98lk70gpz@gmail.com
+2022-01-20 13:01:223 INFO  LoginPage :53 - Entering Password into password field LOiKT98wf
+2022-01-20 13:01:693 INFO  LoginPage :58 - Clicking on Login Button on Login Page [[ChromeDriver: chrome on WINDOWS (d9851c862dc230c06927d8507b05d4a3)] -> xpath: //button[contains(text(),'Log In')]]
+2022-01-20 13:01:949 INFO  LoginPage :62 - Getting Error message text [[ChromeDriver: chrome on WINDOWS (d9851c862dc230c06927d8507b05d4a3)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-20 13:01:808 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 13:01:370 INFO  HomePage :46 - Clicking on Sign Up Button [[ChromeDriver: chrome on WINDOWS (0606ce3778d468a179f3455d3348c252)] -> xpath: //a[contains(text(),'Sign Up')]]
+2022-01-20 13:01:401 INFO  SignUpPage :98 - Entering First Name into 'FIRST NAME' field John
+2022-01-20 13:01:40 INFO  SignUpPage :103 - Entering Last Name into 'LAST NAME' field Scott
+2022-01-20 13:01:722 INFO  SignUpPage :108 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (0606ce3778d468a179f3455d3348c252)] -> css selector: .regpath__button-next-text]
+2022-01-20 13:01:191 INFO  SignUpPage :113 - Selecting Gender 'Male or Female' [[ChromeDriver: chrome on WINDOWS (0606ce3778d468a179f3455d3348c252)] -> class: bvs-button-card-alternative]
+2022-01-20 13:01:675 INFO  SignUpPage :118 - Entering Email into 'EMAIL' field e1ewsqzmqn@gmail.com
+2022-01-20 13:01:795 INFO  SignUpPage :123 - Entering Password into 'PASSWORD' field nKk2LITL6B5zuTo
+2022-01-20 13:01:710 INFO  SignUpPage :128 - Entering Mobile number into 'MOBILE NUMBER' field 7912457832
+2022-01-20 13:01:309 INFO  SignUpPage :133 - Selecting Day from dropdown for 'Date Of Birth' field  11
+2022-01-20 13:01:714 INFO  SignUpPage :135 - Selecting Month from dropdown for 'Date of Birth' field  November
+2022-01-20 13:01:187 INFO  SignUpPage :137 - Selecting Year from dropdown for 'Date Of Birth' field 1980
+2022-01-20 20:01:193 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 20:01:904 INFO  HomePage :40 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (1c17aabb977b8c513f03d5b46b4221ce)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-20 20:01:15 INFO  LoginPage :42 - Switching into iFrame [[ChromeDriver: chrome on WINDOWS (1c17aabb977b8c513f03d5b46b4221ce)] -> xpath: //iframe[@class='oneauth-iframe']]
+2022-01-20 20:01:172 INFO  LoginPage :48 - Entering Username into username field khmnwl21wt@gmail.com
+2022-01-20 20:01:448 INFO  LoginPage :53 - Entering Password into password field sGcY7myR6
+2022-01-20 20:01:726 INFO  LoginPage :58 - Clicking on Login Button on Login Page [[ChromeDriver: chrome on WINDOWS (1c17aabb977b8c513f03d5b46b4221ce)] -> xpath: //button[contains(text(),'Log In')]]
+2022-01-20 20:01:973 INFO  LoginPage :62 - Getting Error message text [[ChromeDriver: chrome on WINDOWS (1c17aabb977b8c513f03d5b46b4221ce)] -> class: login_errorMessageWrapper__2ZcGx]
+2022-01-20 20:01:678 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-01-20 20:01:596 INFO  HomePage :46 - Clicking on Sign Up Button [[ChromeDriver: chrome on WINDOWS (e13456077b706353f35c7b49efd959bc)] -> xpath: //a[contains(text(),'Sign Up')]]
+2022-01-20 20:01:63 INFO  SignUpPage :98 - Entering First Name into 'FIRST NAME' field John
+2022-01-20 20:01:294 INFO  SignUpPage :103 - Entering Last Name into 'LAST NAME' field Scott
+2022-01-20 20:01:530 INFO  SignUpPage :108 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (e13456077b706353f35c7b49efd959bc)] -> css selector: .regpath__button-next-text]
+2022-01-20 20:01:793 INFO  SignUpPage :113 - Selecting Gender 'Male or Female' [[ChromeDriver: chrome on WINDOWS (e13456077b706353f35c7b49efd959bc)] -> class: bvs-button-card-alternative]
+2022-01-20 20:01:198 INFO  SignUpPage :118 - Entering Email into 'EMAIL' field y6tqlz17q9@gmail.com
+2022-01-20 20:01:509 INFO  SignUpPage :123 - Entering Password into 'PASSWORD' field UxDZJ4LYZzq5yR7
+2022-01-20 20:01:811 INFO  SignUpPage :128 - Entering Mobile number into 'MOBILE NUMBER' field 7912457832
+2022-01-20 20:01:00 INFO  SignUpPage :133 - Selecting Day from dropdown for 'Date Of Birth' field  11
+2022-01-20 20:01:177 INFO  SignUpPage :135 - Selecting Month from dropdown for 'Date of Birth' field  November
+2022-01-20 20:01:356 INFO  SignUpPage :137 - Selecting Year from dropdown for 'Date Of Birth' field 1980
+2022-01-20 20:01:508 INFO  SignUpPage :175 - Clicking on Continue button [[ChromeDriver: chrome on WINDOWS (e13456077b706353f35c7b49efd959bc)] -> xpath: //span[contains(text(),'Continue')]]
+2022-01-20 20:01:894 INFO  SignUpPage :142 - Entering first line of address into 'Address1' field  10 Downand Drive
+2022-01-20 20:01:130 INFO  SignUpPage :144 - Entering City into 'City' field London
+2022-01-20 20:01:397 INFO  SignUpPage :146 - Entering Postcode into 'Postcode' field SE10 0NY
+2022-01-20 20:01:560 INFO  SignUpPage :108 - Clicking on Continue Button [[ChromeDriver: chrome on WINDOWS (e13456077b706353f35c7b49efd959bc)] -> css selector: .regpath__button-next-text]
+2022-01-20 20:01:59 INFO  SignUpPage :151 - Selecting Currency  GBP
+2022-01-20 20:01:189 INFO  SignUpPage :156 - Verifying Join Now link is displayed No
+2022-01-20 20:01:336 INFO  SignUpPage :161 - Clicking on Checkbox for accepting Terms and Conditions [[ChromeDriver: chrome on WINDOWS (e13456077b706353f35c7b49efd959bc)] -> xpath: //div[@class='bvs-checkbox-card__checkbox']]
+2022-01-20 20:01:453 INFO  SignUpPage :166 - Clicking on Create Account button [[ChromeDriver: chrome on WINDOWS (e13456077b706353f35c7b49efd959bc)] -> xpath: //button[@type='submit']]
+2022-01-20 20:01:579 INFO  SignUpPage :170 - Clicking on Close button [[ChromeDriver: chrome on WINDOWS (e13456077b706353f35c7b49efd959bc)] -> xpath: //span[@class='bvs-icon is-big is-cross is-inverted']]

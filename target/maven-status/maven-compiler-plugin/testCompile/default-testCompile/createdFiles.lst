@@ -1,0 +1,7 @@
+com\heartbingo\cucumber\stepdefs\LoginTest.class
+com\heartbingo\cucumber\Hooks.class
+com\heartbingo\cucumber\stepdefs\SignUpTest.class
+com\heartbingo\AppTest.class
+com\heartbingo\cucumber\LoginTestRunner.class
+com\heartbingo\cucumber\SignUpTestRunner.class
+com\heartbingo\cucumber\TestRunner.class

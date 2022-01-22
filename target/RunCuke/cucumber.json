@@ -1,0 +1,444 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "I am on HomePage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4861961500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should not login with Invalid Credentials",
+        "description": "",
+        "id": "login-functionality;user-should-not-login-with-invalid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 641206600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 243861000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on Login Link",
+            "match": {
+              "location": "LoginTest.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4255220800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter Invalid Username",
+            "match": {
+              "location": "LoginTest.iEnterInvalidUsername()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 275670200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter Invalid Password",
+            "match": {
+              "location": "LoginTest.iEnterInvalidPassword()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 275109900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on Login Button",
+            "match": {
+              "location": "LoginTest.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 277067900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I get error message for invalid Username and Password",
+            "match": {
+              "location": "LoginTest.iGetErrorMessageForInvalidUsernameAndPassword()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Functionality",
+    "description": "",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "LoginTest.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "I am on Homepage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2748447400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "User should be able to Sign Up by entering mandatory details",
+        "description": "",
+        "id": "sign-up-functionality;user-should-be-able-to-sign-up-by-entering-mandatory-details;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 614789900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 181004200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click On Sign Up Button",
+            "match": {
+              "location": "SignUpTest.iClickOnSignUpButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 461664800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter First Name \"John\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "John",
+                  "offset": 20
+                }
+              ],
+              "location": "SignUpTest.iEnterFirstName(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 229812700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter Last Name \"Scott\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Scott",
+                  "offset": 19
+                }
+              ],
+              "location": "SignUpTest.iEnterLastName(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 234987400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on Continue Button",
+            "match": {
+              "location": "SignUpTest.iClickOnContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 261593400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I select Gender \"Male\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Male",
+                  "offset": 17
+                }
+              ],
+              "location": "SignUpTest.iSelectGender(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 405052400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter email Address",
+            "match": {
+              "location": "SignUpTest.iEnterEmailAddress()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 309222800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter Password",
+            "match": {
+              "location": "SignUpTest.iEnterPassword()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 301719400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter Mobile number \"7912457832\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "7912457832",
+                  "offset": 23
+                }
+              ],
+              "location": "SignUpTest.iEnterMobileNumber(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 694847600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I select Date Of Birth \"11\", \"November\", \"1980\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "11",
+                  "offset": 24
+                },
+                {
+                  "val": "November",
+                  "offset": 30
+                },
+                {
+                  "val": "1980",
+                  "offset": 42
+                }
+              ],
+              "location": "SignUpTest.iSelectDateOfBirth(String,String,String)"
+            },
+            "matchedColumns": [
+              4,
+              5,
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 888058300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I enter Address details \"10 Downand Drive\", \"London\", \"SE10 0NY\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10 Downand Drive",
+                  "offset": 25
+                },
+                {
+                  "val": "London",
+                  "offset": 45
+                },
+                {
+                  "val": "SE10 0NY",
+                  "offset": 55
+                }
+              ],
+              "location": "SignUpTest.iEnterAddressDetails(String,String,String)"
+            },
+            "matchedColumns": [
+              7,
+              8,
+              9
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 162203700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I click on Continue Button",
+            "match": {
+              "location": "SignUpTest.iClickOnContinueButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 500410800,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I select Currency \"GBP\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "GBP",
+                  "offset": 19
+                }
+              ],
+              "location": "SignUpTest.iSelectCurrency(String)"
+            },
+            "matchedColumns": [
+              10
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 126547500,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I select Exclusive Offers checkbox \"No\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "No",
+                  "offset": 36
+                }
+              ],
+              "location": "SignUpTest.iSelectExclusiveOffersCheckbox(String)"
+            },
+            "matchedColumns": [
+              11
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 144409000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on Terms and condition Check Box",
+            "match": {
+              "location": "SignUpTest.iClickOnTermsAndConditionCheckBox()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 115674300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I click on Create Account button",
+            "match": {
+              "location": "SignUpTest.iClickOnCreateAccountButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125759100,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "My account is created",
+            "match": {
+              "location": "SignUpTest.myAccountIsCreated()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Sign Up Functionality",
+    "description": "",
+    "id": "sign-up-functionality",
+    "keyword": "Feature",
+    "uri": "SignUpTest.feature"
+  }
+]
